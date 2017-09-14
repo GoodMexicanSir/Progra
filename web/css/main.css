@@ -1,0 +1,248 @@
+/*=====================================================
+					Estilos generales
+======================================================*/
+body{
+	margin: 0;
+	padding: 0;
+	position: relative;
+	width: auto;
+        line-height: 1.5;
+}
+#pagina{
+        overflow: hidden;
+        font-size: 16px;
+        color: black;
+}
+/*====== Barra de navegacion*/
+.cabecera{
+    width: 100%;
+    margin: 0 auto;
+}
+a.logo{
+    display: block;
+    float: left;
+    height: 106px;
+    margin: 44px 0 0;
+    width: 320px;
+}
+.navegacion{
+	width: 100%;
+	background-color: rgb(118, 0, 124); /*color barra*/
+	line-height: 50px;
+        margin: 0 auto;
+        max-height: 50px;
+}
+.logo{
+	height: 50px;
+        margin-left: 21px;
+        border: 0;
+}
+.links{
+        display: block;
+	text-align: right;
+        float: right;
+        margin: 0 auto;
+        text-align: center;
+        padding: 0 21px 0;
+}
+.links li{
+	display: inline-block;
+	padding: 0 21px 0 21px;
+	width: auto;
+}
+.links li:hover{
+    background-color: rgba(249,134,0,0.3); /*Sombreado botones*/
+}
+.links li a{
+color: #fff; /*color letra barra*/
+font-size: 16px;
+font-weight: normal;
+line-height: 14px;
+text-align: center;
+text-transform: uppercase;
+width: auto;
+text-decoration: none;
+outline: none;
+}
+.caja{
+    padding: 60px 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    min-height: 80%;
+    margin: auto;
+}
+.cajaP{
+    width: 70%;
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 51px 0;
+}
+.imagen{
+    width: 50%;
+    margin-left: auto;
+    left: auto;
+    right: auto;
+    float: left;
+    padding: 0 12px;
+    box-sizing: border-box;
+}
+.principal{
+    max-width: 100%;
+    padding: 0;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+}
+.texto{
+    width: 50%;
+    margin-left: auto;
+    left: auto;
+    right: auto;
+    float: left;
+    box-sizing: border-box;
+    line-height: 1.5;
+    padding: 0 12px;
+    font-size: 1.64rem;
+}
+h5{
+    text-align: center;
+    line-height: 110%;
+    margin: 0.82rem 0 0.65rem 0;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size:1.64rem;
+}
+h4{
+    text-align: center;
+    line-height: 110%;
+    font-size: 2.28rem;
+    margin: 1.14rem 0 0.912rem 0;
+    text-transform: uppercase;
+}
+.N{
+    padding: 0;
+    text-align: left;
+}
+.espacio{
+    border-top: 1px solid #E1E1E1; /*linea divisoria*/
+    font-size: 2rem;
+    padding-top: 30px;
+}
+.B{
+    margin: 0;
+    padding: 30px 0;
+}
+.col{
+    width: 33.3333333333%;
+    margin-left: auto;
+    left: auto;
+    right: auto;
+    float: left;
+    box-sizing: border-box;
+    padding: 0 0.75rem;
+}
+.hover{
+    position: relative;
+    margin: 0.5rem 0 1rem 0;
+    background-color: #fff;
+    transition: box-shadow .25s;
+    border-radius: 2px;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+}
+.hover:hover{
+    box-shadow:0 15px 10px 0 rgba(0,0,0,0.2),0 15px 20px 0 rgba(0,0,0,0.22);
+}
+.im{
+    position: relative;
+    padding: 0;
+    margin: 0;
+    display: block;
+}
+.im img{
+   border-radius: 2px 2px 0 0;
+   left: 0;
+   right: 0;
+   top: 0;
+   bottom: 0;
+   width: 100%;
+   border: 0;
+   display: block;
+   position: relative;
+}
+.im a{
+   width: 100%;
+   background-color: rgba(0,0,0,.5);
+   padding: 9px 0;
+   color: #fff;
+   position: absolute;
+   bottom: 0;
+   left: 0;
+   font-size: 24px;
+   font-weight: 300;
+   display: block;
+}
+.tex{
+    padding: 20px;
+    border-radius: 0 0 2px 2px;
+}
+.tex p{
+    margin:0;
+}
+.accion{
+    border-top: 1px solid rgba(160,160,160,0.2);
+    padding: 20px;
+}
+.accion a{
+    color: #0091ea;
+    margin-right: 20px;
+    transition: color .3s ease;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: transparent;
+}
+.accion a:hover{
+    color: #d1d1d1; /*color link al pasar cursor*/
+}
+.anuncios{
+    width: 100%;
+    margin-left: auto;
+    left: auto;
+    right:auto;
+    float: left;
+    box-sizing: border-box;
+    padding: 0 0.75rem;
+}
+.titulo{
+    text-align: center;
+    font-weight: 300;
+    font-size: 1.68rem;
+}
+.dibujos{
+    margin: 16px 0;
+}
+/*====== footer*/
+.C{
+	padding: 30px 0;
+	background-color: rgb(118, 0, 124); /*color pie de pagina*/
+	color: #fff;
+        padding: 0;
+}
+.M{
+    width: 50%;
+}
+.redes{
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+.redes li a{
+    text-decoration: none;
+    color: #fff;
+}
+.copyright{
+        width: 100%;
+	text-align: center;
+	color: #fff;
+        border-top: 1px solid rgba(255,255,255,.2);
+}
