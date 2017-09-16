@@ -25,10 +25,10 @@
                 <div class="col">
                     <div class="hover">
                         <div class="im">
-                            <img src="../imagenes/h1 (1).jpeg" alt="">
+                            <img src="../imagenes/Teclados/Teclado1.png" alt="">
                         </div>  
                         <div class="tex">
-                            <h5 class="N">titulo</h5>
+                            <h5 class="N">Titulo</h5>
                             <p>texto</p>
                         </div>
                     </div>
@@ -36,10 +36,10 @@
                 <div class="col">
                     <div class="hover">
                         <div class="im">
-                            <img src="../imagenes/h1 (1).jpeg" alt="">
+                            <img src="../imagenes/Teclados/Teclado2.png" alt="">
                         </div>  
                         <div class="tex">
-                            <h5 class="N">titulo</h5>
+                            <h5 class="N">Titulo</h5>
                             <p>texto</p>
                         </div>
                     </div>
@@ -47,10 +47,10 @@
                 <div class="col">
                     <div class="hover">
                         <div class="im">
-                            <img src="../imagenes/h1 (1).jpeg" alt="">
+                            <img src="../imagenes/Teclados/Teclado3.png" alt="">
                         </div>  
                         <div class="tex">
-                            <h5 class="N">titulo</h5>
+                            <h5 class="N">Titulo</h5>
                             <p>texto</p>
                         </div>
                     </div>
@@ -58,10 +58,10 @@
                 <div class="col">
                     <div class="hover">
                         <div class="im">
-                            <img src="../imagenes/h1 (1).jpeg" alt="">
+                            <img src="../imagenes/Teclados/Teclado4.png" alt="">
                         </div>  
                         <div class="tex">
-                            <h5 class="N">titulo</h5>
+                            <h5 class="N">Titulo</h5>
                             <p>texto</p>
                         </div>
                     </div>
@@ -69,10 +69,10 @@
                 <div class="col">
                     <div class="hover">
                         <div class="im">
-                            <img src="../imagenes/h1 (1).jpeg" alt="">
+                            <img src="../imagenes/Teclados/Teclado5.png" alt="">
                         </div>  
                         <div class="tex">
-                            <h5 class="N">titulo</h5>
+                            <h5 class="N">Titulo</h5>
                             <p>texto</p>
                         </div>
                     </div>
@@ -80,7 +80,118 @@
                 <div class="col">
                     <div class="hover">
                         <div class="im">
-                            <img src="../imagenes/h1 (1).jpeg" alt="">
+                            <img src="../imagenes/Monitores/Monitor1.png" alt="">
+                        </div>  
+                        <div class="tex">
+                            <h5 class="N">Titulo</h5>
+                            <p>texto</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="hover">
+                        <div class="im">
+                            <img src="../imagenes/Monitores/Monitor2.png" alt="">
+                        </div>  
+                        <div class="tex">
+                            <h5 class="N">Titulo</h5>
+                            <p>texto</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="hover">
+                        <div class="im">
+                            <img src="../imagenes/Monitores/Monitor3.png" alt="">
+                        </div>  
+                        <div class="tex">
+                            <h5 class="N">Titulo</h5>
+                            <p>texto</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="hover">
+                        <div class="im">
+                            <img src="../imagenes/Monitores/Monitor4.png" alt="">
+                        </div>  
+                        <div class="tex">
+                            <h5 class="N">Titulo</h5>
+                            <p>texto</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="hover">
+                        <div class="im">
+                            <img src="../imagenes/Monitores/Monitor5.png" alt="">
+                        </div>  
+                        <div class="tex">
+                            <h5 class="N">Titulo</h5>
+                            <p>texto</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="hover">
+                        <div class="im">
+                            <img src="../imagenes/Laptops/Laptop1.png" alt="">
+                        </div>  
+                        <div class="tex">
+                            <h5 class="N">Titulo</h5>
+                            <p>texto</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="hover">
+                        <div class="im">
+                            <img src="../imagenes/Laptops/Laptop2.png" alt="">
+                        </div>  
+                        <div class="tex">
+                            <h5 class="N">Titulo</h5>
+                            <p>texto</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="hover">
+                        <div class="im">
+                            <img src="../imagenes/Laptops/Laptop3.png" alt="">
+                        </div>  
+                        <div class="tex">
+                            <h5 class="N">Titulo</h5>
+                            <p>texto</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="hover">
+                        <div class="im">
+                            <img src="../imagenes/Laptops/Laptop4.png" alt="">
+                        </div>  
+                        <div class="tex">
+                            <h5 class="N">Titulo</h5>
+                            <p>texto</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="hover">
+                        <div class="im">
+                            <img src="../imagenes/Laptops/Laptop5.png" alt="">
+                        </div>  
+                        <div class="tex">
+                            <h5 class="N">Titulo</h5>
+                            <p>texto</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col">
+                    <div class="hover">
+                        <div class="im">
+                            <img src="../imagenes/Maus/mouse1.png" alt=""/>
                         </div>  
                         <div class="tex">
                             <h5 class="N">titulo</h5>
@@ -88,6 +199,189 @@
                         </div>
                     </div>
                 </div>
+                
+                <div class="col">
+                    <div class="hover">
+                        <div class="im">
+                       
+                            <img src="../imagenes/Maus/mouse2.png" alt=""/>
+                        </div>  
+                        <div class="tex">
+                            <h5 class="N">titulo</h5>
+                            <p>texto</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col">
+                    <div class="hover">
+                        <div class="im">
+                        
+                            <img src="../imagenes/Maus/mouse3.png" alt=""/>
+                        </div>  
+                        <div class="tex">
+                            <h5 class="N">titulo</h5>
+                            <p>texto</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col">
+                    <div class="hover">
+                        <div class="im">
+                      
+                            <img src="../imagenes/Maus/mouse4.jpg" alt=""/>
+                        </div>  
+                        <div class="tex">
+                            <h5 class="N">titulo</h5>
+                            <p>texto</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col">
+                    <div class="hover">
+                        <div class="im">
+                           
+                            <img src="../imagenes/Maus/mouse5.jpg" alt=""/>
+                        </div>  
+                        <div class="tex">
+                            <h5 class="N">titulo</h5>
+                            <p>texto</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col">
+                    <div class="hover">
+                        <div class="im">
+                            
+                            <img src="../imagenes/TarjetasGraficas/t1.jpg" alt=""/>
+                        </div>  
+                        <div class="tex">
+                            <h5 class="N">titulo</h5>
+                            <p>texto</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col">
+                    <div class="hover">
+                        <div class="im">
+                            <img src="../imagenes/TarjetasGraficas/t2.png" alt=""/>
+                            
+                        </div>  
+                        <div class="tex">
+                            <h5 class="N">titulo</h5>
+                            <p>texto</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col">
+                    <div class="hover">
+                        <div class="im">
+                            <img src="../imagenes/TarjetasGraficas/t3.jpg" alt=""/>
+                            
+                        </div>  
+                        <div class="tex">
+                            <h5 class="N">titulo</h5>
+                            <p>texto</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col">
+                    <div class="hover">
+                        <div class="im">
+                            <img src="../imagenes/TarjetasGraficas/t4.jpg" alt=""/>
+                            
+                        </div>  
+                        <div class="tex">
+                            <h5 class="N">titulo</h5>
+                            <p>texto</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col">
+                    <div class="hover">
+                        <div class="im">
+                        <img src="../imagenes/TarjetasGraficas/t5.jpg" alt=""/>
+                          
+                        </div>  
+                        <div class="tex">
+                            <h5 class="N">titulo</h5>
+                            <p>texto</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col">
+                    <div class="hover">
+                        <div class="im">
+                            <img src="../imagenes/gabinetes/g1.jpg" alt=""/>
+                            
+                        </div>  
+                        <div class="tex">
+                            <h5 class="N">titulo</h5>
+                            <p>texto</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col">
+                    <div class="hover">
+                        <div class="im">
+                            <img src="../imagenes/gabinetes/g2.jpg" alt=""/>
+                            
+                        </div>  
+                        <div class="tex">
+                            <h5 class="N">titulo</h5>
+                            <p>texto</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col">
+                    <div class="hover">
+                        <div class="im">
+                            
+                            <img src="../imagenes/gabinetes/g3.jpg" alt=""/>
+                        </div>  
+                        <div class="tex">
+                            <h5 class="N">titulo</h5>
+                            <p>texto</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col">
+                    <div class="hover">
+                        <div class="im">
+                            
+                            <img src="../imagenes/gabinetes/g4.jpg" alt=""/>
+                        </div>  
+                        <div class="tex">
+                            <h5 class="N">titulo</h5>
+                            <p>texto</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col">
+                    <div class="hover">
+                        <div class="im">
+                            <img src="../imagenes/gabinetes/g5.jpg" alt=""/>
+                            
+                        </div>  
+                        <div class="tex">
+                            <h5 class="N">titulo</h5>
+                            <p>texto</p>
+                        </div>
+                    </div>
+                </div>
+                
                 </div>
             </div>
             <div class="caja C">
