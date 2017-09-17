@@ -93,9 +93,6 @@ padding: 15.5px 21px;
     margin: 0 auto;
     padding: 51px 0;
 }
-.atras{
-    z-index: -1;
-}
 .imagen{
     width: 50%;
     margin-left: auto;
@@ -141,6 +138,7 @@ h4{
 .N{
     padding: 0;
     text-align: left;
+    z-index: -1;
 }
 .espacio{
     border-top: 1px solid #E1E1E1; /*linea divisoria*/
