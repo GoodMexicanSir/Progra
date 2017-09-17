@@ -43,7 +43,7 @@
             </div>
             <div class="espacio"></div>
             <div class="caja B">
-                <div class="cajaP N">
+                <div class="cajaP N atras">
                     <h5>titulo</h5><br>
                     <div class="col">
                         <div class="hover">
@@ -91,7 +91,7 @@
             </div>
             <div class="espacio"></div>
             <div class="caja B">
-                <div class="cajaP N">
+                <div class="cajaP N atras">
                     <div class="anuncios">
                         <h5>titulo</h5>
                         <p>texto</p>
