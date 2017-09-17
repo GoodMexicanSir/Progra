@@ -9,10 +9,19 @@
         <div id="pagina">
         <div class="cabecera">
             <div class="navegacion">
-                <img class="logo" src="../imagenes/logoC.png" alt="">
+                <img class="logo" src="../imagenes/logoC.png" alt="">         
                 <ul class="links">
                     <li><a href="inicio.jsp">Inicio</a></li>
-                    <li><a href="productos.jsp">Productos</a></li>
+                    <li><a href="productos.jsp">Productos</a>
+                        <ul>
+                            <li><a href="productos.jsp">Teclados</a></li> 
+                            <li><a href="productos.jsp">Monitores</a></li> 
+                            <li><a href="productos.jsp">LapTops</a></li> 
+                            <li><a href="productos.jsp">Ratones</a></li> 
+                            <li><a href="productos.jsp">Tarjetas Graficas</a></li> 
+                            <li><a href="productos.jsp">Gabinetes</a></li> 
+                        </ul>
+                    </li>
                     <li><a href="contacto.jsp">Contacto</a></li>
                     <li><a href="carrito.jsp">Carrito</a></li>
                     <li><a href="ingresar.jsp">Ingresar</a></li>	
