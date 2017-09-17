@@ -29,7 +29,7 @@
             </div>
         </div>
             <div class="caja">
-            <div class="cajaP N atras">
+            <div class="cajaP N">
                 <h4>Productos</h4>
                 <div class="col">
                     <div class="hover">
