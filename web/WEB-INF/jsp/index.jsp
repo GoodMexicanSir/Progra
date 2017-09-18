@@ -59,7 +59,7 @@
                                     Resolución 1920 x 1080 (Full HD), 4 ms</p>
                             </div>
                             <div class="accion">
-                                <a href="paginas/productos.jsp">Link</a>
+                                <a href="paginas/productos.jsp">Ver</a>
                             </div>
                         </div>
                     </div>
@@ -75,7 +75,7 @@
                                     1xDisplayPort, PCI Express x16 3.0</p>
                             </div>
                             <div class="accion">
-                                <a href="paginas/productos.jsp">Link</a>
+                                <a href="paginas/productos.jsp">Ver</a>
                             </div>
                         </div>
                     </div>
@@ -89,7 +89,7 @@
                                 <p>Procesador Intel Core i3 6006U (2.0 GHz), </p>
                             </div>
                             <div class="accion">
-                                <a href="paginas/productos.jsp">Link</a>
+                                <a href="paginas/productos.jsp">Ver</a>
                             </div>
                         </div>
                     </div>
