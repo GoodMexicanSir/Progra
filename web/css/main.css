@@ -7,11 +7,11 @@ body{
 	position: relative;
 	min-width: 1035px;
         line-height: 1.5;
-        font-family: Arial;
+        font-family: Agency FB;
 }
 #pagina{
         overflow: hidden;
-        font-size: 16px;
+        font-size: 21px;
         color: black;
 }
 /*====== Barra de navegacion*/
@@ -56,7 +56,6 @@ a.logo{
     background-color: rgba(23, 191, 195, 0.5); /*Sombreado botones*/
 }
 .links li a{
-font-size: 16px;
 color: black;
 font-weight: normal;
 line-height: 14px;
@@ -126,7 +125,7 @@ padding: 15.5px 21px;
     box-sizing: border-box;
     line-height: 1.5;
     padding: 0 12px;
-    font-size: 1.64rem;
+    font-size: 2rem;
 }
 h5{
     text-align: center;
@@ -207,7 +206,6 @@ h4{
 }
 .T ul li a{
     text-decoration: none;
-    font-size: 16px;
     line-height: 14px;
     padding: 15.5px 21px;
     color:#fff;
@@ -247,9 +245,9 @@ h4{
    width: 100%;
    background-color: rgba(0,0,0,.5);
    padding: 9px 0;
+   color: #fff;
    position: absolute;
    bottom: 0;
-   color: black;
    left: 0;
    font-size: 24px;
    font-weight: 300;
