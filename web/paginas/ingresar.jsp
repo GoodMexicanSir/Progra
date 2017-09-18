@@ -28,6 +28,18 @@
                 </ul>
             </div>
         </div>
+            <div class="caja">
+                <div class="cajaP">
+                <div class="contenido">
+                    <form action="">
+                    <h2> Registro de Usuario </h2>
+                    <input type="text" placeholder="&#128272; Usuario" name="usuario">
+                    <input type="text" placeholder="&#128272; Contraseña" name="clave">
+                    <input type="submit" value="Ingresar">
+                    </form>
+                </div>               
+            </div>
+            </div>
             <div class="caja C">
                 <div class="cajaP">
                     <div class="col M">
@@ -50,3 +62,4 @@
         
     </body>
 </html>
+
