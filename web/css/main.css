@@ -7,6 +7,7 @@ body{
 	position: relative;
 	min-width: 1035px;
         line-height: 1.5;
+        font-family: Arial;
 }
 #pagina{
         overflow: hidden;
@@ -318,4 +319,41 @@ h4{
 	text-align: center;
         border-top: 1px solid rgba(255,255,255,.2);
         color: black;
+}
+/*====== Datos de Usuario*/
+.contenido{
+    margin: auto;
+    width: 60%;
+    height: 60%;
+    color: gray;
+    max-width: 66%;
+}
+.contenido h2{
+    text-align: center;
+}
+form {
+    margin: auto;
+    width: 50%;
+    max-width: 500px;
+    padding: 50px;      
+}
+form input {
+    display: block;
+    padding: 10px;
+    width: 100%;
+    margin: 30px auto;
+    font-size: 20px;
+} 
+form input[type="submit"] {
+    background: linear-gradient(yellow,lightgray);
+    border: 0;
+    color: brown;
+    opacity: 0.8;
+    cursor: pointer;
+    border-radius:20px;
+    margin-bottom: 0;
+    width: 107%;
+}
+form input[type="submit"]:hover {
+    opacity:1;                        
 }
