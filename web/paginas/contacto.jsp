@@ -30,7 +30,7 @@
         </div>
             <div class="caja">
                 <div class="cajaP N">
-                    <h4>Contacto</h4>
+                    <h4>Acerca de</h4>
                     <h3>¿Quienes somos?</h3>
                     <p>Este proyecto fue iniciado en el semestre
                         Agosto-Diciembre del año 2017, con el motivo
