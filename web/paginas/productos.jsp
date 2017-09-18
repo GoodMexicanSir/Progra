@@ -375,16 +375,18 @@
             <div class="caja C">
                 <div class="cajaP">
                     <div class="col M">
-                        <h5>titulo</h5>
-                        <p>texto</p>
+                        <h5>¿Sabías que?</h5>
+                        <p>Los equipos de alta tecnología son a menudo manejados por
+                           una computadora con MS-DOS. 
+                        </p>
                     </div>
                     <div class="col M">
-                        <h5>titulo</h5>
+                        <h5>Redes Sociales</h5>
                         <ul class="redes">
-                            <li><a href="">facebook</a></li>
-                            <li><a href="">twitter</a></li>
-                            <li><a href="">instagram</a></li>
-                            <li><a href="">youtube</a></li>
+                            <li><a href="https://www.facebook.com/" target="_blank">Facebook</a></li> 
+                            <li><a href="https://twitter.com/" target="_blank">Twitter</a></li>
+                            <li><a href="https://www.instagram.com/?hl=es" target="_blank">Instagram</a></li>
+                            <li><a href="https://www.youtube.com/" target="_blank">Youtube</a></li>
                         </ul>
                     </div>
                     <br><div class="col copyright">ExoCorp © 2017</div>
