@@ -70,7 +70,7 @@
                                 <a>---NVidia Pro Msi</a>
                             </div>
                             <div class="tex">
-                                <p>NVIDIA PRO MSI Tarjeta de Video NVIDIA
+                                <p>Tarjeta de Video NVIDIA
                                     MSI GeForce GTX 1050Ti OC, 4GB GDDR5,
                                     1xDisplayPort, PCI Express x16 3.0</p>
                             </div>
@@ -82,11 +82,12 @@
                     <div class="col">
                         <div class="hover">
                             <div class="im">
-                                <img src="imagenes/Laptops/Laptop3.png" alt="">
-                                <a>---lenovo</a>
+                                <img src="imagenes/Monitores/Monitor3.png" alt="">
+                                <a>---Asus</a>
                             </div>
                             <div class="tex">
-                                <p>Procesador Intel Core i3 6006U (2.0 GHz), </p>
+                                <p>Monitor Gamer ASUS VP228H de 21.5", Resolución
+                                    1920 x 1080 (Full HD), 1 ms, Bocinas Integradas.</p>
                             </div>
                             <div class="accion">
                                 <a href="paginas/productos.jsp">Ver</a>
