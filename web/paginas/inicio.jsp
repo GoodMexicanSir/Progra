@@ -36,54 +36,60 @@
                             <img class="principal" src="../imagenes/h1 (2).jpeg" alt="">
                     </div>
                     <div class="texto">
-                        <h5>titulo</h5>
-                        <p>texto </p>
+                        <h4>Bienvenido</h4>
+                        <p>Página de Inicio en JSP. <br>
+                           Somos la solución para tus problemas de retardo tecnológico, 
+                           tenemos los mejores equipos en venta, 
+                           visite nuestras demas secciones.</p>
                     </div>
                 </div>
             </div>
             <div class="espacio"></div>
             <div class="caja B">
                 <div class="cajaP N">
-                    <h5>titulo</h5><br>
+                    <h4>lo más nuevo</h4><br>
                     <div class="col">
                         <div class="hover">
                             <div class="im">
-                                <img src="../imagenes/h1 (1).jpeg" alt="">
-                                <a>titulo</a>
+                                <img src="../imagenes/Monitores/Monitor5.png" alt="">
+                                <a>---Samsung</a>
                             </div>
                             <div class="tex">
-                                <p>texto</p>
+                                <p>Monitor Curvo Samsung LC32F391FWNXZA de 32",
+                                    Resolución 1920 x 1080 (Full HD), 4 ms</p>
                             </div>
                             <div class="accion">
-                                <a href="">Link</a>
+                                <a href="productos.jsp">Link</a>
                             </div>
                         </div>
                     </div>
                     <div class="col">
                         <div class="hover">
                             <div class="im">
-                                <img src="../imagenes/h1 (1).jpeg" alt="">
-                                <a>titulo</a>
+                                <img src="../imagenes/TarjetasGraficas/t5.jpg" alt="">
+                                <a>---NVidia Pro Msi</a>
                             </div>
                             <div class="tex">
-                                <p>texto</p>
+                                <p>NVIDIA PRO MSI Tarjeta de Video NVIDIA
+                                    MSI GeForce GTX 1050Ti OC, 4GB GDDR5,
+                                    1xDisplayPort, PCI Express x16 3.0</p>
                             </div>
                             <div class="accion">
-                                <a href="">Link</a>
+                                <a href="productos.jsp">Link</a>
                             </div>
                         </div>
                     </div>
                     <div class="col">
                         <div class="hover">
                             <div class="im">
-                                <img src="../imagenes/h1 (1).jpeg" alt="">
-                                <a>titulo</a>
+                                <img src="../imagenes/Laptops/Laptop3.png" alt="">
+                                <a>---Lenovo</a>
                             </div>
                             <div class="tex">
-                                <p>texto</p>
+                                <p>Procesador Intel Core i3 6006U (2.0 GHz), </p>
                             </div>
                             <div class="accion">
-                                <a href="">Link</a>
+                                <a href="productos.jsp">Link</a>
                             </div>
                         </div>
                     </div>
@@ -93,7 +99,7 @@
             <div class="caja B">
                 <div class="cajaP N">
                     <div class="anuncios">
-                        <h5>titulo</h5>
+                        <h4>titulo</h4>
                         <p>texto</p>
                     </div> 
                     <div class="col">
@@ -122,16 +128,21 @@
             <div class="caja C">
                 <div class="cajaP">
                     <div class="col M">
-                        <h5>titulo</h5>
-                        <p>texto</p>
+                        <h5>¿Sabías que?</h5>
+                        <p>La tecnología Intel Rapid Start permite que las computadoras que 
+                           la integran arranquen y estén listas para trabajar en segundos.
+                           Si el organismo humano tuviera un sistema como este, 
+                           podríamos levantarnos y estar listos para las clases en 
+                           menos de siete segundos.
+                        </p>
                     </div>
                     <div class="col M">
-                        <h5>titulo</h5>
+                        <h5>Redes Sociales</h5>
                         <ul class="redes">
-                            <li><a href="">facebook</a></li>
-                            <li><a href="">twitter</a></li>
-                            <li><a href="">instagram</a></li>
-                            <li><a href="">youtube</a></li>
+                            <li><a href="https://www.facebook.com/" target="_blank">Facebook</a></li> 
+                            <li><a href="https://twitter.com/" target="_blank">Twitter</a></li>
+                            <li><a href="https://www.instagram.com/?hl=es" target="_blank">Instagram</a></li>
+                            <li><a href="https://www.youtube.com/" target="_blank">Youtube</a></li>
                         </ul>
                     </div>
                     <br><div class="col copyright">ExoCorp © 2017</div>
