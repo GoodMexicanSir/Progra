@@ -177,7 +177,7 @@ h4{
     width: 70%;
     float: right;
     padding: 21px;
-    margin-left: 25%;
+    margin-left: 21px;
 }
 .banner{
     position: relative;
@@ -191,7 +191,7 @@ h4{
     width: 21%;
     margin-left: 21px;
     float: left;
-    position: fixed;
+    position: relative;
 }
 .T ul{
     background-color: rgb(23, 191, 195);
@@ -220,6 +220,7 @@ h4{
     transition: box-shadow .25s;
     border-radius: 2px;
     box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+    min-height: 451.55px;
 }
 .P .hover{
     width: 221px;
