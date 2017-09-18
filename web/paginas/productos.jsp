@@ -12,26 +12,29 @@
                 <img class="logo" src="../imagenes/logoC.png" alt="">         
                 <ul class="links">
                     <li><a href="inicio.jsp">Inicio</a></li>
-                    <li><a href="productos.jsp">Productos</a>
-                        <ul>
-                            <li><a href="productos.jsp">Teclados</a></li> 
-                            <li><a href="productos.jsp">Monitores</a></li> 
-                            <li><a href="productos.jsp">LapTops</a></li> 
-                            <li><a href="productos.jsp">Ratones</a></li> 
-                            <li><a href="productos.jsp">Tarjetas Graficas</a></li> 
-                            <li><a href="productos.jsp">Gabinetes</a></li> 
-                        </ul>
-                    </li>
+                    <li><a href="productos.jsp">Productos</a></li>
                     <li><a href="contacto.jsp">Contacto</a></li>
                     <li><a href="carrito.jsp">Carrito</a></li>
                     <li><a href="ingresar.jsp">Ingresar</a></li>	
                 </ul>
             </div>
         </div>
-            <div class="caja">
-            <div class="cajaP N">
+            <div class="banner">
                 <h4>Productos</h4>
-                <div class="col">
+            </div>
+            <div class="caja N">
+                <div class="T">
+                    <ul>
+                        <li><a href="productos.jsp">Teclados</a></li> 
+                        <li><a href="productos.jsp">Monitores</a></li> 
+                        <li><a href="productos.jsp">LapTops</a></li> 
+                        <li><a href="productos.jsp">Ratones</a></li> 
+                        <li><a href="productos.jsp">Tarjetas Graficas</a></li> 
+                        <li><a href="productos.jsp">Gabinetes</a></li>
+                    </ul>
+                </div>
+            <div class="cajaP N PP">           
+                <div class="col P">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/Teclados/Teclado1.png" alt="">
@@ -42,18 +45,18 @@
                         </div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col P">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/Teclados/Teclado2.png" alt="">
                         </div>  
                         <div class="tex">
                             <h5 class="N">Microsoft</h5>
-                            <p>Teclado  Microsoft Desktop 600 con teclas silenciosas y a prueba de líquidos, USB, Color Negro</p>
+                            <p>Teclado  Microsoft Desktop 600, teclas silenciosas, a prueba de líquidos, USB, Color Negro</p>
                         </div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col P">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/Teclados/Teclado3.png" alt="">
@@ -64,7 +67,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col P">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/Teclados/Teclado4.png" alt="">
@@ -75,7 +78,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col P">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/Teclados/Teclado5.png" alt="">
@@ -86,7 +89,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col P">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/Monitores/Monitor1.png" alt="">
@@ -97,7 +100,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col P">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/Monitores/Monitor2.png" alt="">
@@ -108,7 +111,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col P">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/Monitores/Monitor3.png" alt="">
@@ -119,7 +122,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col P">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/Monitores/Monitor4.png" alt="">
@@ -130,7 +133,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col P">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/Monitores/Monitor5.png" alt="">
@@ -141,7 +144,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col P">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/Laptops/Laptop1.png" alt="">
@@ -152,7 +155,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col P">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/Laptops/Laptop2.png" alt="">
@@ -163,7 +166,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col P">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/Laptops/Laptop3.png" alt="">
@@ -174,7 +177,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col P">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/Laptops/Laptop4.png" alt="">
@@ -185,19 +188,19 @@
                         </div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col P">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/Laptops/Laptop5.png" alt="">
                         </div>  
                         <div class="tex">
                             <h5 class="N">ASUS</h5>
-                            <p>- Procesador Intel Celeron N 3060 (hasta 2.48 GHz), </p>
+                            <p>Procesador Intel Celeron N 3060 (hasta 2.48 GHz), </p>
                         </div>
                     </div>
                 </div>
                 
-                <div class="col">
+                <div class="col P">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/Maus/mouse1.png" alt=""/>
@@ -209,10 +212,9 @@
                     </div>
                 </div>
                 
-                <div class="col">
+                <div class="col P">
                     <div class="hover">
                         <div class="im">
-                       
                             <img src="../imagenes/Maus/mouse2.png" alt=""/>
                         </div>  
                         <div class="tex">
@@ -220,12 +222,10 @@
                             <p>Mouse Gamer Razer Lancehead Tournament ambidextrous de hasta 16,000 dpi. USB.</p>
                         </div>
                     </div>
-                </div>
-                
-                <div class="col">
+                </div>             
+                <div class="col P">
                     <div class="hover">
-                        <div class="im">
-                        
+                        <div class="im">  
                             <img src="../imagenes/Maus/mouse3.png" alt=""/>
                         </div>  
                         <div class="tex">
@@ -233,12 +233,10 @@
                             <p>Mouse Inalámbrico  MX Anywhere 2, Sensor Láser, USB y Bluetooth.</p>
                         </div>
                     </div>
-                </div>
-                
-                <div class="col">
+                </div>  
+                <div class="col P">
                     <div class="hover">
                         <div class="im">
-                      
                             <img src="../imagenes/Maus/mouse4.jpg" alt=""/>
                         </div>  
                         <div class="tex">
@@ -248,10 +246,9 @@
                     </div>
                 </div>
                 
-                <div class="col">
+                <div class="col P">
                     <div class="hover">
                         <div class="im">
-                           
                             <img src="../imagenes/Maus/mouse5.jpg" alt=""/>
                         </div>  
                         <div class="tex">
@@ -261,7 +258,7 @@
                     </div>
                 </div>
                 
-                <div class="col">
+                <div class="col P">
                     <div class="hover">
                         <div class="im">
                             
@@ -272,65 +269,55 @@
                             <p>Tarjeta de Video NVIDIA  1050Ti Gigabyte, 4GB GDDR5, 1xHDMI, 1xDisplayPort, PCI Express x16 3.0</p>
                         </div>
                     </div>
-                </div>
-                
-                <div class="col">
+                </div>    
+                <div class="col P">
                     <div class="hover">
                         <div class="im">
-                            <img src="../imagenes/TarjetasGraficas/t2.png" alt=""/>
-                            
+                            <img src="../imagenes/TarjetasGraficas/t2.png" alt=""/>    
                         </div>  
                         <div class="tex">
                             <h5 class="N">Asus</h5>
                             <p>Tarjeta de Video NVIDIA ASUS GeForce GTX 1060 DUAL, 3GB GDDR5, 2xHDMI, PCI Express x16 3.0</p>
                         </div>
                     </div>
-                </div>
-                
-                <div class="col">
+                </div>  
+                <div class="col P">
                     <div class="hover">
                         <div class="im">
-                            <img src="../imagenes/TarjetasGraficas/t3.jpg" alt=""/>
-                            
+                            <img src="../imagenes/TarjetasGraficas/t3.jpg" alt=""/>   
                         </div>  
                         <div class="tex">
                             <h5 class="N">FireGl</h5>
-                            <p>Tarjeta de Video AMD Sapphire Radeon RX 460, 2GB GDDR5, 1xDisplayPort, PCI Express x16 3.0</p>
+                            <p>FIREGL Tarjeta de Video AMD Sapphire Radeon RX 460, 2GB GDDR5, 1xDisplayPort, PCI Express x16 3.0</p>
                         </div>
                     </div>
-                </div>
-                
-                <div class="col">
+                </div>    
+                <div class="col P">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/TarjetasGraficas/t4.jpg" alt=""/>
-                            
                         </div>  
                         <div class="tex">
                             <h5 class="N">Asus</h5>
-                            <p>Tarjeta de Video NVIDIA ASUS GeForce GTX 1050Ti, 4GB GDDR5, PCI Express x16 3.0</p>
+                            <p>ASUS Tarjeta de Video NVIDIA ASUS GeForce GTX 1050Ti, 4GB GDDR5, PCI Express x16 3.0</p>
                         </div>
                     </div>
                 </div>
-                
-                <div class="col">
+                <div class="col P">
                     <div class="hover">
                         <div class="im">
                         <img src="../imagenes/TarjetasGraficas/t5.jpg" alt=""/>
-                          
                         </div>  
                         <div class="tex">
                             <h5 class="N">NVidia Pro Msi</h5>
-                            <p>Tarjeta de Video NVIDIA MSI GeForce GTX 1050Ti OC, 4GB GDDR5, 1xDisplayPort, PCI Express x16 3.0</p>
+                            <p>NVIDIA PRO MSI Tarjeta de Video NVIDIA MSI GeForce GTX 1050Ti OC, 4GB GDDR5, 1xDisplayPort, PCI Express x16 3.0</p>
                         </div>
                     </div>
                 </div>
-                
-                <div class="col">
+                <div class="col P">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/gabinetes/g1.jpg" alt=""/>
-                            
                         </div>  
                         <div class="tex">
                             <h5 class="N">PHANTOM 530</h5>
@@ -338,24 +325,20 @@
                         </div>
                     </div>
                 </div>
-                
-                <div class="col">
+                <div class="col P">
                     <div class="hover">
                         <div class="im">
-                            <img src="../imagenes/gabinetes/g2.jpg" alt=""/>
-                            
+                            <img src="../imagenes/gabinetes/g2.jpg" alt=""/>  
                         </div>  
                         <div class="tex">
                             <h5 class="N">Thermaltake Chaser A41 Snow </h5>
-                            <p>Gabinete Thermaltake, Micro-ATX, (no incluye fuente de poder).</p>
+                            <p>THERMALTAKE CHASER A41 SHOW Gabinete Thermaltake, Micro-ATX, (no incluye fuente de poder).</p>
                         </div>
                     </div>
                 </div>
-                
-                <div class="col">
+                <div class="col P">
                     <div class="hover">
                         <div class="im">
-                            
                             <img src="../imagenes/gabinetes/g3.jpg" alt=""/>
                         </div>  
                         <div class="tex">
@@ -364,35 +347,31 @@
                         </div>
                     </div>
                 </div>
-                
-                <div class="col">
+                <div class="col P">
                     <div class="hover">
                         <div class="im">
-                            
                             <img src="../imagenes/gabinetes/g4.jpg" alt=""/>
                         </div>  
                         <div class="tex">
                             <h5 class="N">AEROCOOL V2X AVANCE MINI-ITX</h5>
-                            <p>Gabinete Aerocool  (sin fuente de poder), Color Negro.</p>
+                            <p>AEROCOOL V2X AVANCE MINI-ITX Gabinete Aerocool  (sin fuente de poder), Color Negro.</p>
                         </div>
                     </div>
                 </div>
-                
-                <div class="col">
+                <div class="col P">
                     <div class="hover">
                         <div class="im">
-                            <img src="../imagenes/gabinetes/g5.jpg" alt=""/>
-                            
+                            <img src="../imagenes/gabinetes/g5.jpg" alt=""/>     
                         </div>  
                         <div class="tex">
                             <h5 class="N">PHANTOM 410</h5>
-                            <p>Nzxt Gabinete Phantom 410 Mediatorre Atx Rojo Ca-ph410-r1</p>
+                            <p>PHANTOM 410 Nzxt Gabinete Phantom 410 Mediatorre Atx Rojo Ca-ph410-r1</p>
                         </div>
                     </div>
                 </div>
                 
                 </div>
-            </div>
+                </div>
             <div class="caja C">
                 <div class="cajaP">
                     <div class="col M">
