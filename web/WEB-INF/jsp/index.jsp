@@ -33,11 +33,11 @@
             <div class="caja">
                 <div class="cajaP">
                     <div class="imagen">
-                            <img class="principal" src="imagenes/h1 (2).jpeg" alt="">
+                            <img class="principal" src="imagenes/Bloquerto.png" alt="">
                     </div>
                     <div class="texto">
                         <h4>Bienvenido</h4>
-                        <p>Página de Inicio en JSP. <br>
+                        <p>¡Hola!, soy Bloquerto y esta es nuestra página de Inicio en JSP. <br>
                            Somos la solución para tus problemas de retardo tecnológico, 
                            tenemos los mejores equipos en venta, 
                            visite nuestras demas secciones.</p>
@@ -100,29 +100,35 @@
             <div class="caja B">
                 <div class="cajaP N">
                     <div class="anuncios">
-                        <h4>titulo</h4>
-                        <p>texto</p>
+                        <h4>¡¡¡Regalos, beneficios y muchas sorpresas más!!!</h4>
+                        <p>Para los usuarios que se vuelvan miembros de nuestra página,
+                           Bloquerto les tiene muchas sorpresas. Desde regalos hasta descuentos
+                           y beneficios de membresía, Exocorp y su staff estaran gustos de tener
+                           clientes comprometidos.</p>
                     </div> 
                     <div class="col">
                         <div class="im">
-                            <img class="dibujos" src="imagenes/logo.png" alt="">
+                            <img class="dibujos" src="imagenes/Regalo1.png" alt="">
                         </div>
-                        <p class="titulo">titulo</p>
-                        <p>texto</p>
+                        <p class="titulo">Regalos</p>
+                        <p>Siendo miembro de Exocorp tienes la oportunidad de ingresar a un sorteo
+                           de artículos de nuestra tienda, ¡¡gratis!!</p>
                     </div>
                     <div class="col">
                         <div class="im">
                             <img class="dibujos" src="imagenes/logo.png" alt="">
                         </div>
-                        <p class="titulo">titulo</p>
-                        <p>texto</p>
+                        <p class="titulo">Beneficios de membresía</p>
+                        <p>Obten más variedad de opciones de compra y disfruta de envío gratis
+                           y rapido.</p>
                     </div>
                     <div class="col">
                         <div class="im">
-                            <img class="dibujos" src="imagenes/logo.png" alt="">
+                            <img class="dibujos" src="imagenes/Descuentos.png" alt="">
                         </div>
-                        <p class="titulo">titulo</p>
-                        <p>texto</p>
+                        <p class="titulo">Descuentos</p>
+                        <p>Muchos descuentos en productos de toda la tienda se daran
+                           a los usuarios de membresía Exocorp.</p>
                     </div>
                 </div>    
             </div>
