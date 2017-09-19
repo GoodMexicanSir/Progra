@@ -33,7 +33,7 @@
             <div class="caja">
                 <div class="cajaP">
                     <div class="imagen">
-                            <img class="principal" src="../imagenes/h1 (2).jpeg" alt="">
+                            <img class="principal" src="../imagenes/Bloquerto.png" alt="">
                     </div>
                     <div class="texto">
                         <h4>Bienvenido</h4>
@@ -108,7 +108,7 @@
                     </div> 
                     <div class="col">
                         <div class="im">
-                            <img class="dibujos" src="../imagenes/Regalo1.png" alt="">
+                            <img class="dibujos" src="../imagenes/naranja.png" alt="">
                         </div>
                         <p class="titulo">Regalos</p>
                         <p>Siendo miembro de Exocorp tienes la oportunidad de ingresar a un sorteo
@@ -116,7 +116,7 @@
                     </div>
                     <div class="col">
                         <div class="im">
-                            <img class="dibujos" src="../imagenes/logo.png" alt="">
+                            <img class="dibujos" src="../imagenes/member.png" alt="">
                         </div>
                         <p class="titulo">Beneficios de membresía</p>
                         <p>Obten más variedad de opciones de compra y disfruta de envío gratis
@@ -124,7 +124,7 @@
                     </div>
                     <div class="col">
                         <div class="im">
-                            <img class="dibujos" src="../imagenes/Descuentos.png" alt="">
+                            <img class="dibujos" src="../imagenes/descuentos.png" alt="">
                         </div>
                         <p class="titulo">Descuentos</p>
                         <p>Muchos descuentos en productos de toda la tienda se daran
@@ -158,4 +158,3 @@
         </div>
     </body>
 </html>
-
