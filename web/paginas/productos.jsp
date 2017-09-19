@@ -266,7 +266,7 @@
                         </div>  
                         <div class="tex">
                             <h5 class="N">NVidia Tesla</h5>
-                            <p>Tarjeta de Video NVIDIA  1050Ti Gigabyte, 4GB GDDR5, 1xHDMI, 1xDisplayPort, PCI Express x16 3.0</p>
+                            <p>Tarjeta de Video 1050Ti Gigabyte, 4GB GDDR5, 1xHDMI, 1xDisplayPort, PCI Express x16 3.0</p>
                         </div>
                     </div>
                 </div>    
@@ -288,7 +288,7 @@
                         </div>  
                         <div class="tex">
                             <h5 class="N">FireGl</h5>
-                            <p>FIREGL Tarjeta de Video AMD Sapphire Radeon RX 460, 2GB GDDR5, 1xDisplayPort, PCI Express x16 3.0</p>
+                            <p>Tarjeta de Video AMD Sapphire Radeon RX 460, 2GB GDDR5, 1xDisplayPort, PCI Express x16 3.0</p>
                         </div>
                     </div>
                 </div>    
@@ -299,7 +299,7 @@
                         </div>  
                         <div class="tex">
                             <h5 class="N">Asus</h5>
-                            <p>ASUS Tarjeta de Video NVIDIA ASUS GeForce GTX 1050Ti, 4GB GDDR5, PCI Express x16 3.0</p>
+                            <p>Tarjeta de Video NVIDIA ASUS GeForce GTX 1050Ti, 4GB GDDR5, PCI Express x16 3.0</p>
                         </div>
                     </div>
                 </div>
@@ -310,7 +310,7 @@
                         </div>  
                         <div class="tex">
                             <h5 class="N">NVidia Pro Msi</h5>
-                            <p>NVIDIA PRO MSI Tarjeta de Video NVIDIA MSI GeForce GTX 1050Ti OC, 4GB GDDR5, 1xDisplayPort, PCI Express x16 3.0</p>
+                            <p>Tarjeta de Video GeForce GTX 1050Ti OC, 4GB GDDR5, 1xDisplayPort, PCI Express x16 3.0</p>
                         </div>
                     </div>
                 </div>
@@ -332,7 +332,7 @@
                         </div>  
                         <div class="tex">
                             <h5 class="N">Thermaltake Chaser A41 Snow </h5>
-                            <p>THERMALTAKE CHASER A41 SHOW Gabinete Thermaltake, Micro-ATX, (no incluye fuente de poder).</p>
+                            <p>Gabinete Thermaltake, Micro-ATX, (no incluye fuente de poder).</p>
                         </div>
                     </div>
                 </div>
@@ -354,7 +354,7 @@
                         </div>  
                         <div class="tex">
                             <h5 class="N">AEROCOOL V2X AVANCE MINI-ITX</h5>
-                            <p>AEROCOOL V2X AVANCE MINI-ITX Gabinete Aerocool  (sin fuente de poder), Color Negro.</p>
+                            <p>Gabinete Aerocool  (sin fuente de poder), Color Negro.</p>
                         </div>
                     </div>
                 </div>
@@ -365,7 +365,7 @@
                         </div>  
                         <div class="tex">
                             <h5 class="N">PHANTOM 410</h5>
-                            <p>PHANTOM 410 Nzxt Gabinete Phantom 410 Mediatorre Atx Rojo Ca-ph410-r1</p>
+                            <p>Nzxt Gabinete Phantom 410 Mediatorre Atx Rojo Ca-ph410-r1</p>
                         </div>
                     </div>
                 </div>
