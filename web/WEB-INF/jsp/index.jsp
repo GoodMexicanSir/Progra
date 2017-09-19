@@ -52,7 +52,7 @@
                         <div class="hover">
                             <div class="im">
                                 <img src="imagenes/Monitores/Monitor5.png" alt="">
-                                <a>---samsung</a>
+                                <a>---Samsung</a>
                             </div>
                             <div class="tex">
                                 <p>Monitor Curvo Samsung LC32F391FWNXZA de 32",
@@ -108,7 +108,7 @@
                     </div> 
                     <div class="col">
                         <div class="im">
-                            <img class="dibujos" src="imagenes/Regalo1.png" alt="">
+                            <img class="dibujos" src="imagenes/naranja.png" alt="">
                         </div>
                         <p class="titulo">Regalos</p>
                         <p>Siendo miembro de Exocorp tienes la oportunidad de ingresar a un sorteo
@@ -116,7 +116,7 @@
                     </div>
                     <div class="col">
                         <div class="im">
-                            <img class="dibujos" src="imagenes/logo.png" alt="">
+                            <img class="dibujos" src="imagenes/member.png" alt="">
                         </div>
                         <p class="titulo">Beneficios de membresía</p>
                         <p>Obten más variedad de opciones de compra y disfruta de envío gratis
@@ -124,7 +124,7 @@
                     </div>
                     <div class="col">
                         <div class="im">
-                            <img class="dibujos" src="imagenes/Descuentos.png" alt="">
+                            <img class="dibujos" src="imagenes/descuentos.png" alt="">
                         </div>
                         <p class="titulo">Descuentos</p>
                         <p>Muchos descuentos en productos de toda la tienda se daran
