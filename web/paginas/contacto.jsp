@@ -28,15 +28,34 @@
                 </ul>
             </div>
         </div>
-            <div class="caja">
-                <div class="cajaP N">
-                    <h4>Acerca de</h4>
-                    <h3>¿Quienes somos?</h3>
-                    <p>Este proyecto fue iniciado en el semestre
+            <div class="banner">
+                <h4>Acerca de</h4>
+            </div>
+            <div class="caja N">
+                <div class="cajaP">
+                    <div>
+                        <img  class="imagen" src="../imagenes/contacto.png"/>
+                    </div>  
+                    <div class="col M">
+                        <h5>¿Quienes somos?</h5>
+                        <p>Este proyecto fue iniciado en el semestres
                         Agosto-Diciembre del año 2017, con el motivo
                         de crear una página web que cumpla con JAVA WEB,
                         además de diversas herramientas para el funcionamiento
                         de la misma.</p>
+                        <h5>Preguntas Frecuentes</h5>
+                        <ul>
+                            <li>Todos nuestros envíos son vía Estafeta.</li>
+                            <li>Usted tiene 10 días límite para hacer un reclamo.</li>
+                            <li>Contamos un 100% de seguridad de compra en línea.</li>
+                            <li>Agradecemos su preferencia.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="espacio"></div>
+                <div class="caja B">
+                    <div class="cajaP N">
                     <div class="col M">
                         <h5>Misión</h5>
                         <p>Tenemos como meta principal el brindar un servicio de
@@ -53,10 +72,7 @@
                             se dará asesorías en cualquier momento ya sea en
                             la visita o compra. </p>
                     </div>
-                    <h4>Preguntas frecuentes</h4>
-                    <p>Todos nuestros envíos son vía Estafeta.
-Usted tiene 10 días límite para hacer un reclamo.
-Contamos un 100% de seguridad de compra en línea.</p>
+                    </div>
                 </div>
             </div>
             <div class="caja C">
