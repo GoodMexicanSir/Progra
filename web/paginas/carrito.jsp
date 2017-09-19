@@ -28,6 +28,29 @@
                 </ul>
             </div>
         </div>
+            <div class="caja">
+                <div class="cajaP">
+                <div class="contenido">
+                <table>
+                    <h2>Mi carrito de compras</h2>
+                    <tr>
+                        <th>   </th><th>Cantidad</th><th>Producto</th><th>Descripción</th><th>Precio</th>
+                    </tr>
+                    <tr>
+                        <td><input type="checkbox"><td>8</td><td>Ejemplo 1</td><td>Referencia del producto</td><td>$1500.00 (MX)</td>
+                    </tr>
+                    <tr>
+                        <td><input type="checkbox"><td>5</td><td>Ejemplo 2</td><td>Referencia del producto</td><td>$7500.00 (MX)</td>
+                    </tr>
+                    <tr>
+                        <td><input type="checkbox"><td>5</td><td>Ejemplo 3</td><td>Referencia del producto</td><td>$6000.00 (MX)</td>
+                    </tr>
+                </table> <br>
+                    <input  class="mybut" type="button" value="Comprar">
+                    <input class="mybut" type="button" value="Eliminar">
+                </div>               
+            </div>
+            </div>
             <div class="caja C">
                 <div class="cajaP">
                     <div class="col M">
@@ -51,4 +74,3 @@
         </div>
     </body>
 </html>
-
