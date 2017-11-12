@@ -4,6 +4,7 @@
     <head>
         <title>Productos</title>
         <link rel="stylesheet" type="text/css" href="../css/main.css">
+        <script src="../Show_and_Hide.js" type="text/javascript"></script>
     </head>
     <body>
         <div id="pagina">
@@ -25,16 +26,16 @@
             <div class="caja N">
                 <div class="T">
                     <ul>
-                        <li><a href="productos.jsp">Teclados</a></li> 
-                        <li><a href="productos.jsp">Monitores</a></li> 
-                        <li><a href="productos.jsp">LapTops</a></li> 
-                        <li><a href="productos.jsp">Ratones</a></li> 
-                        <li><a href="productos.jsp">Tarjetas Graficas</a></li> 
-                        <li><a href="productos.jsp">Gabinetes</a></li>
+                        <li><a href="#" onclick="show_and_hide(teclados)">Teclados</a></li> 
+                        <li><a href="#" onclick="show_and_hide(monitores)">Monitores</a></li> 
+                        <li><a href="#" onclick="show_and_hide(laptops)">LapTops</a></li> 
+                        <li><a href="#" onclick="show_and_hide(ratones)">Ratones</a></li> 
+                        <li><a href="#" onclick="show_and_hide(tarjetas)">Tarjetas Graficas</a></li> 
+                        <li><a href="#" onclick="show_and_hide(gabinetes)">Gabinetes</a></li>
                     </ul>
                 </div>
             <div class="cajaP N PP">           
-                <div class="col P">
+                <div class="col P" id="teclados">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/Teclados/Teclado1.png" alt="">
@@ -45,7 +46,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col P">
+                <div class="col P" id="teclados">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/Teclados/Teclado2.png" alt="">
@@ -56,7 +57,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col P">
+                <div class="col P" id="teclados">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/Teclados/Teclado3.png" alt="">
@@ -67,7 +68,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col P">
+                <div class="col P" id="teclados">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/Teclados/Teclado4.png" alt="">
@@ -78,7 +79,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col P">
+                <div class="col P" id="teclados">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/Teclados/Teclado5.png" alt="">
@@ -89,7 +90,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col P">
+                <div class="col P" id="monitores">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/Monitores/Monitor1.png" alt="">
@@ -100,7 +101,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col P">
+                <div class="col P" id="monitores">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/Monitores/Monitor2.png" alt="">
@@ -111,7 +112,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col P">
+                <div class="col P" id="monitores">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/Monitores/Monitor3.png" alt="">
@@ -122,7 +123,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col P">
+                <div class="col P" id="monitores">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/Monitores/Monitor4.png" alt="">
@@ -133,7 +134,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col P">
+                <div class="col P" id="monitores">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/Monitores/Monitor5.png" alt="">
@@ -144,7 +145,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col P">
+                <div class="col P" id="laptops">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/Laptops/Laptop1.png" alt="">
@@ -155,7 +156,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col P">
+                <div class="col P" id="laptops">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/Laptops/Laptop2.png" alt="">
@@ -166,7 +167,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col P">
+                <div class="col P" id="laptops">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/Laptops/Laptop3.png" alt="">
@@ -177,7 +178,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col P">
+                <div class="col P" id="laptops">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/Laptops/Laptop4.png" alt="">
@@ -188,7 +189,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col P">
+                <div class="col P" id="laptops">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/Laptops/Laptop5.png" alt="">
@@ -200,7 +201,7 @@
                     </div>
                 </div>
                 
-                <div class="col P">
+                <div class="col P" id="ratones">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/Maus/mouse1.png" alt=""/>
@@ -212,7 +213,7 @@
                     </div>
                 </div>
                 
-                <div class="col P">
+                <div class="col P" id="ratones">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/Maus/mouse2.png" alt=""/>
@@ -223,7 +224,7 @@
                         </div>
                     </div>
                 </div>             
-                <div class="col P">
+                <div class="col P" id="ratones">
                     <div class="hover">
                         <div class="im">  
                             <img src="../imagenes/Maus/mouse3.png" alt=""/>
@@ -234,7 +235,7 @@
                         </div>
                     </div>
                 </div>  
-                <div class="col P">
+                <div class="col P" id="ratones">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/Maus/mouse4.jpg" alt=""/>
@@ -246,7 +247,7 @@
                     </div>
                 </div>
                 
-                <div class="col P">
+                <div class="col P" id="ratones">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/Maus/mouse5.jpg" alt=""/>
@@ -258,7 +259,7 @@
                     </div>
                 </div>
                 
-                <div class="col P">
+                <div class="col P" id="tarjetas">
                     <div class="hover">
                         <div class="im">
                             
@@ -270,7 +271,7 @@
                         </div>
                     </div>
                 </div>    
-                <div class="col P">
+                <div class="col P" id="tarjetas">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/TarjetasGraficas/t2.png" alt=""/>    
@@ -281,7 +282,7 @@
                         </div>
                     </div>
                 </div>  
-                <div class="col P">
+                <div class="col P" id="tarjetas">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/TarjetasGraficas/t3.jpg" alt=""/>   
@@ -292,7 +293,7 @@
                         </div>
                     </div>
                 </div>    
-                <div class="col P">
+                <div class="col P" id="tarjetas">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/TarjetasGraficas/t4.jpg" alt=""/>
@@ -303,7 +304,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col P">
+                <div class="col P" id="tarjetas">
                     <div class="hover">
                         <div class="im">
                         <img src="../imagenes/TarjetasGraficas/t5.jpg" alt=""/>
@@ -314,7 +315,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col P">
+                <div class="col P" id="gabinetes">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/gabinetes/g1.jpg" alt=""/>
@@ -325,7 +326,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col P">
+                <div class="col P" id="gabinetes">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/gabinetes/g2.jpg" alt=""/>  
@@ -336,7 +337,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col P">
+                <div class="col P" id="gabinetes">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/gabinetes/g3.jpg" alt=""/>
@@ -347,7 +348,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col P">
+                <div class="col P" id="gabinetes">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/gabinetes/g4.jpg" alt=""/>
@@ -358,7 +359,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col P">
+                <div class="col P" id="gabinetes">
                     <div class="hover">
                         <div class="im">
                             <img src="../imagenes/gabinetes/g5.jpg" alt=""/>     
