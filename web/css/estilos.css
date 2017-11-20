@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #FFFFFA;
+}
+
+.contenido {
+  width: 500px;
+  margin: 20px auto;
+  text-align: justify;
+}
+
+.contenido p {
+  margin-bottom: 1em;
+}
+
+.botonup {
+  display: none;
+  background: yellow;
+  padding: 10px;
+  font-size: 40px;
+  color: lightblue;
+  cursor: pointer;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
